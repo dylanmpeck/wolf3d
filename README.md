@@ -5,7 +5,6 @@ A classic Wolfenstein 3D clone aimed at learning and reproducing a simple versio
 <h3>Features</h3>
 
 * Rudimentary 3D graphics achieved through raycasting
-* Software rendering by manipulating SDL2 surfaces (hardware rendering was off-limits)
 * A maze with varying wall textures based off the cardinal direction that the wall is facing
 * Smooth movement
 * Wall collision
