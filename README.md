@@ -25,3 +25,12 @@ A classic Wolfenstein 3D clone aimed at learning and reproducing a simple versio
 Run make and an executable will be created. Run ./wolf3d path_to_map path_to_spritesheet. Spritesheet is an optional argument.
 
 If the executable fails to run. Try "brew install libmodplug". Only tested on OS X.
+
+<h3>Screenshots</h3>
+![alt-text](https://github.com/dylanmpeck/wolf3d/blob/master/screenshots/begin.png "Beginning")
+
+![alt-text](https://github.com/dylanmpeck/wolf3d/blob/master/screenshots/enemy.png "Enemy")
+
+![alt-text](https://github.com/dylanmpeck/wolf3d/blob/master/screenshots/gettingShot.png "Shot")
+
+![alt-text](https://github.com/dylanmpeck/wolf3d/blob/master/screenshots/key.png "Key") 
