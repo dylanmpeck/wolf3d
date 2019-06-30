@@ -25,7 +25,7 @@ Run make and an executable will be created. Run ./wolf3d path_to_map path_to_spr
 
 If the executable fails to run. Try "brew install libmodplug". Only tested on OS X.
 
-<h3>Gameplay Video</h3>
+<h3>Click for Gameplay Video</h3>
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/CJ94sQmPYrU/0.jpg)](https://youtu.be/CJ94sQmPYrU)
 
